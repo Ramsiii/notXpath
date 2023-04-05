@@ -1,0 +1,9 @@
+descendant::a[not(contains(.,"Buy Now"))]
+
+or
+
+descendant::a[not(contains(text(),"Buy Now"))]
+
+or
+
+descendant::img[not(contains(@alt,"Playstation PS2"))]
