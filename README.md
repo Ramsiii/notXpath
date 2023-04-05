@@ -10,4 +10,7 @@ Documentation on the not function.
 https://developer.mozilla.org/en-US/docs/Web/XPath/Functions/not
 
 
+You can use the not function to negate many different conditions, including an axis.
+Guide to axes here:
+https://www.w3schools.com/xml/xpath_axes.asp
 
