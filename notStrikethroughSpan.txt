@@ -1,0 +1,2 @@
+span[not(@style="text-decoration: line-through;")]
+# when there is a reduced price and one is striken through, extract only the span without this style
