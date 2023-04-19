@@ -1,0 +1,3 @@
+/descendant::td[@class="column column-1" and @width="50%"]
+
+/descendant::td[@class="column column-1" and not(@width="50%")]
