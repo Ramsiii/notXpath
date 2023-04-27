@@ -1,0 +1,1 @@
+[not(contains(translate(.,"Sleep","sleep"),"sleep"))]
