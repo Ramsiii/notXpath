@@ -1,3 +1,0 @@
-input[name="vegetable"]:disabled
-input[name="vegetable"]:enabled
-input[name="vegetable"]:checked
