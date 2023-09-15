@@ -1,0 +1,1 @@
+descendant::img[string-length(@alt)>1]
